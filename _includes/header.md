@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [CS50 DP]({{ "/" | relative_url }})
 
-Harvard University\\
+DPEA\\
 2018–2019
