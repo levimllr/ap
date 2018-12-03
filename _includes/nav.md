@@ -10,8 +10,10 @@
 
 ***
 
-* [Period 1]({{ "/periods/1" | relative_url }})
-* [Period 5]({{ "/periods/5" | relative_url }})
+* [Rotation 9A]({{ "/periods/9a" | relative_url }})
+* [Rotation 9B]({{ "/periods/9b" | relative_url }})
+* [Rotation 9C]({{ "/periods/9c" | relative_url }})
+* [Rotation 9D]({{ "/periods/9d" | relative_url }})
 
 ***
 
