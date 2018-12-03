@@ -1,4 +1,4 @@
-# [CS50 DP]({{ "/" | relative_url }})
+# [CS50 AP]({{ "/" | relative_url }})
 
-DPEA\\
+Dos Pueblos Engineering Academy\\
 2018–2019
